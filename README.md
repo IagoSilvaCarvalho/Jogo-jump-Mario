@@ -1,2 +1,4 @@
 # Jogo-jump-Mario
-Projeto simples usando o recurso de animação - Html + Css + JS
+Projeto usando o recurso de animação - Html + Css + JS
+
+Só baixar e jogar
