@@ -13,7 +13,7 @@
 }
 .mario{
     position: absolute;
-    bottom: 0;
+    bottom: 0px;
     width: 140px;  
 }
 .jump{
@@ -23,7 +23,7 @@
     position: absolute;
     bottom: 0;
     width: 80px;
-    animation: pipe-animation 2s infinite linear ;
+    animation: pipe-animation 1.1s linear infinite;
 }
 
 @keyframes mario-animation{
