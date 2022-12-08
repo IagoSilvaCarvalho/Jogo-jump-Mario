@@ -33,7 +33,7 @@ const loop = setInterval(()=>{
         mario.style.bottom = `${marioPosition}px`;
         nuvem.style.left = `${nuvemPosition}px`;
         //mudar a imagem após perder
-        mario.src = "/public/img/game-over.png";
+        mario.src = "./img/game-over.png";
         mario.style.width ='80px';
         mario.style.left = '40px';
         //aparecer imagem game over
